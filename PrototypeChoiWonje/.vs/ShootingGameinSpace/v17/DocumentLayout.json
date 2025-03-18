@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Folder\\ShootingGameinSpace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6901DD-86C0-8549-DC1C-CF74682696BE}|Assembly-CSharp.csproj|d:\\unity folder\\shootinggameinspace\\assets\\scripts\\playeraimweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6901DD-86C0-8549-DC1C-CF74682696BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeraimweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6901DD-86C0-8549-DC1C-CF74682696BE}|Assembly-CSharp.csproj|D:\\Unity Folder\\ShootingGameinSpace\\assets\\scripts\\basicmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF6901DD-86C0-8549-DC1C-CF74682696BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\basicmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAimWeapon.cs",
+              "DocumentMoniker": "D:\\Unity Folder\\ShootingGameinSpace\\Assets\\Scripts\\PlayerAimWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAimWeapon.cs",
+              "ToolTip": "D:\\Unity Folder\\ShootingGameinSpace\\Assets\\Scripts\\PlayerAimWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAimWeapon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T17:42:47.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasicMovement.cs",
+              "DocumentMoniker": "D:\\Unity Folder\\ShootingGameinSpace\\Assets\\Scripts\\BasicMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BasicMovement.cs",
+              "ToolTip": "D:\\Unity Folder\\ShootingGameinSpace\\Assets\\Scripts\\BasicMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BasicMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T06:32:59.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
